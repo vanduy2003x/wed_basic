@@ -1,0 +1,47 @@
+#text1{
+    background-color: rgba(0,0,0,.85);
+    height: 30px;}
+#text1 ul{
+    margin: 0px;
+    padding: 0px;
+}
+#text1 ul li{
+    list-style: none;
+    float: left;
+    color: #fff;
+}
+#text1 ul li a{
+    text-decoration: none;
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    padding: 0px 0px 0px 250px;
+}
+h1 {text-align: center;
+font-size: 30px;}
+#one{
+    margin-left: 150px;
+}
+body{
+    margin: 0px;
+}
+#for{
+    font-size: 20px;
+   text-align: center;
+   
+}
+
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
