@@ -1,0 +1,70 @@
+body{
+   margin: 0px auto;
+}
+#one{
+    background:black ;
+    height: 40px;
+}
+h1{
+    text-align: center;
+}
+#main #left{
+    width: 728px;
+    height: 550px;
+    float: left;
+}
+#main #left a{
+    margin: 0px 0px 0px 150px;
+}
+
+#main #for{
+    width: 851px;
+    height: 550px;
+    float: right;
+}
+#main #for h4{
+    text-align: center;
+    line-height: 70px;
+}
+#main #for h3{
+    background: rgb(240, 191, 76);
+    width: 240px;
+    margin-left: 300px;
+    color: rgb(234, 235, 236);
+
+}
+#bottom{
+    background: rgb(35, 20, 20);
+    text-align: center;
+    height: 80px;
+    clear: left;
+    color: aliceblue;
+    margin: 0px;
+}
+#bottom h3{
+    background:rgb(240, 191, 76) ;
+    width: 350px;
+    margin-left: 630px;
+
+}
+a{
+    text-align: center;
+}
+#one ul{margin: 0px;
+    padding: 0px;
+
+}
+#one ul li{
+    list-style: none;   
+    float: left;}
+    
+#one ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    display: block;
+    height: 40px; 
+    line-height: 40px;
+    padding: 0px 0px 0px 250px;
+}
+
+
