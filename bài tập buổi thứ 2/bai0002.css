@@ -1,0 +1,29 @@
+#My{
+    background-color: rgb(145, 21, 179);
+    width: 1050px;
+    height: 100px;
+    margin: 30px 100px 50px; 
+}
+#what #are{
+    background: rgb(212, 45, 7);
+    height: 450px;
+    width: 200px;
+    float: left;
+    margin: 0px 50px 50px 100px ;
+}
+#what #you{
+    background: rgb(94, 255, 0);
+height: 450px;
+width: 200px;
+float: left;
+margin:0px 50px 50px 200px ;}
+#what #doing{
+    background: rgb(216, 90, 11);
+    height: 450px;
+    width: 200px;
+    float: left;
+    margin: 0px 80px 50px 150px;
+}
+body{
+    text-align: center;
+}

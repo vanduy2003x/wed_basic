@@ -1,0 +1,51 @@
+
+#two{
+    background: black;
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin: 30px 0px 30px 30px;
+}
+#one #three{
+    background: red;
+    width: 800px;
+    height: 100px;
+    float: right;
+    margin: 30px 30px 30px;}
+#He #name{
+    background: blue;
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin: 30px 0px 30px 30px;
+}
+#He #you{
+    background: yellowgreen;
+    width: 800px;
+    height: 100px;
+    float: right;
+    margin: 30px 30px 30px;
+}
+#four #five{
+    background: brown;
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin: 30px 0px 30px 30px;
+}
+#four #six{
+    background: blueviolet;
+    width: 800px;
+    height: 100px;
+    float: right;
+    margin: 30px 30px 30px;
+}
+#bottom{
+    background: pink;
+    height: 100px;
+    clear: left;
+    margin: 0px 30px 30px 30px;
+}
+body{
+    text-align: center;
+}
