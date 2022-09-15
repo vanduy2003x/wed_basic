@@ -1,0 +1,13 @@
+li:nth-child(2){
+    background-color: rgb(183, 235, 218);
+    width: 130px;
+    color:rgb(8, 112, 95) ;
+}
+li:nth-child(5){
+    background-color: rgb(237, 100, 100);
+    width: 130px;
+    color: rgb(202, 50, 60);
+}
+li{
+    list-style-type: none;
+}

@@ -1,0 +1,10 @@
+a:hover{
+    color: aqua;
+    background-color: rgb(241, 133, 133);
+}  
+h2 a{
+    text-decoration: none;
+}
+a{
+   text-decoration: none;
+}   
