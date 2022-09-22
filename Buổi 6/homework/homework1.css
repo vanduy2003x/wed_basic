@@ -1,0 +1,68 @@
+.picture1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: flex;
+    transform-origin: left top;
+    transition-duration: 5s;
+
+}
+
+.picture2{
+    height: 100px;
+    width: 100px;
+    background-color:blue;
+    display: flex;
+    transform-origin: left top;
+    transition-duration: 5s;
+}
+.picture3{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+    display: flex;
+    transform-origin: left top;
+    transition-duration: 5s;
+}
+.picture4{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(8, 220, 18);
+    display: flex;
+
+}
+.four-square-shape{
+    justify-content: center;
+    position: relative;
+    top: 200px;
+    float: left;
+    }
+.four-square-shape2{
+    justify-content: center;
+    position: relative;
+    top: 200px;
+    float: left;
+}
+.boss:hover .picture1{
+    transform-origin: left top;
+    transition-duration: 5s;
+    transform: rotate(90deg)
+}
+.boss:hover .picture2{transform-origin: left top;
+    transition-duration: 5s;
+    transform: rotate(90deg)}
+.boss:hover .picture3{transform-origin: right bottom;
+    transition-duration: 5s;
+    transform: rotate(90deg)}
+.boss:hover .picture4{transform-origin: right bottom;
+    transition-duration: 5s;
+    transform: rotate(90deg)}
+.content{position: absolute;
+left: 100px;
+top: 100px;
+font-size: 30px;}
+header{display: flex;
+justify-content: center;}
+
+
+
