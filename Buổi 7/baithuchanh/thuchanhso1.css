@@ -1,0 +1,23 @@
+h1::selection{
+    background-color: rgb(41, 83, 69);
+    color: aqua;
+}
+h1::first-letter{
+    font-size: 35px;
+    color: lightcoral;
+    font-weight: 30px;
+}
+a::before{
+    content: '👉';
+}
+a::after{content: '👈';}
+.read-a-book{
+    width: 800px;
+    height: 600px;
+    margin: 100px 0px 10px 30px;}
+ul li{
+    font-size: 20px;
+    gap: 10px
+    ;
+}
+li::marker{content: '❗'}
