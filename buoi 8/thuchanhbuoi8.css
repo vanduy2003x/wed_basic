@@ -1,5 +1,7 @@
 body{
     margin: 0px;
+    display: flex;
+    flex-direction: column;
 }
 .menu-top{
     background-color: black;
@@ -12,6 +14,10 @@ body{
     line-height: 80px;
     position: sticky;
     top: 0px;
+    display: flex;
+}   
+.bottom-one{
+    display: flex;
 }
 .home-page{
     margin: 0px 0px 0px 500px;
@@ -25,57 +31,83 @@ body{
 .magnifying-glass-logo{
     margin: 10px 0px 0px 0px;
 }
-.text0{
-    width: 300px;
-    height: 450px;
-    background-color: #323232;
-    color: #fff;
-}
-.text1{
-    width: 300px;
-    height: 450px;
-    background-color: #323232;
-    color: #fff;
-}
-.text2{
-    width: 300px;
-    height: 450px;
-    background-color: #323232;
-    color: #fff;
-    
-}
-.text2{
-    width: 300px;
-    height: 450px;
-    background-color: #323232;
-    color: #fff;
-}
-.text3{
-    width: 300px;
-    height: 450px;
-    background-color: #323232;
-    color: #fff;
-}
-
 #bottom-one{
     display: flex;
     justify-content: center;
     gap: 80px;
-    background-color: rgb(187, 178, 178);
     height: 460px;
+    flex-wrap:wrap ;
+}
+.bottom-two{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    height: 460px;
+    position: relative;
+}
+.text8{
+    position: absolute;
+    right: 835px;
+    top: 350px;
+}
+.text9{
+    position: absolute;
+    top:350px;
+    right: 450px;
+}
+.text10{
+    position: absolute;
+    top:350px;
+    right: 80px;
 }
 .text0:hover{
-    transform: scale(0.8);
+    transform: scale(1.2);
 }
 .text1:hover{
-    transform: scale(0.8);
+    transform: scale(1.2);
 }
 .text2:hover{
-    transform: scale(0.8);
+    transform: scale(1.2);
 }
 .text3:hover{
-    transform: scale(0.8);
+    transform: scale(1.2);
+}
+.text4:hover{
+    transform: scale(1.2);
+}
+.text5:hover{
+    transform: scale(1.2);
+}
+.text6:hover{
+    transform: scale(1.2);
+}
+.text7:hover{
+    transform: scale(1.2);
+}
+.text8:hover{
+    transform: scale(1.2);
+}
+.text9:hover{
+    transform: scale(1.2);
+}
+.text10:hover{
+    transform: scale(1.2);
 }
 header{
     position: relative;
+}
+.last{
+    background-color: #000;
+    height: 200px;
+    margin: 190px 0px 0px 0px;
+    line-height: 200px;
+    display: flex;
+    text-align: center;
+    gap: 30px;
+}
+.box1{
+    margin: 0px 0px 0px 300px;
+}
+.last a{
+    color: aliceblue;
 }
